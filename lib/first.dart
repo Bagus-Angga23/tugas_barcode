@@ -41,7 +41,7 @@ class _FirstState extends State<First> {
                   });
                 },
                 child: Text(
-                  "Create",
+                  "Create Barcode",
                   style: TextStyle(
                     color: Colors.black,
                     fontSize: 20,
